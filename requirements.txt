@@ -1,4 +1,4 @@
-brcpyt==3.1.4
+brcpyt==3.1.7
 cffi==1.11.5
 Click==7.0
 Flask==1.1.1
